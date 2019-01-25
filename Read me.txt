@@ -1,0 +1,3 @@
+The Salesforce Metadata API allows you to perform many org configuration and setup features programatically. 
+Code examples given by Salesforce are in Java as the API is a SOAP API. In respect to the Apex library provided here: https://github.com/financialforcedev/apex-mdapi
+it wraps via the provided MetadataService.cls class the Salesforce SOAP version of the API to make it easier to access for Apex developers
